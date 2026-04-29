@@ -48,7 +48,7 @@ LinguiniBot AI está orientado al contexto educativo colombiano, alineándose co
   - JavaScript
 
 - **API de Inteligencia Artificial:**
-  - Modelo generativo (Gemini API)
+  - Modelo generativo (Utilizando arquitectura NPL)
 
 ---
 
